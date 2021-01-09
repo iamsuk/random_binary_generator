@@ -1,5 +1,5 @@
 # random_binary_generator
-A oackage to console random binary in your terminal
+A package to console random binary in your terminal
 
 ##Document
 This repository provides tools package which contains random.go file.
